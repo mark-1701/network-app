@@ -22,7 +22,7 @@
         <a class="button is-primary" href="{{route('user.index')}}">Iniciar Sistema</a>
     </nav>
     <section class="banner">
-        <div class="banner-message">connect-e Solutions es una empresa líder en la instalación de redes de computadoras, especializada en proporcionar soluciones completas y personalizadas para sus clientes. Nos dedicamos a la implementación de redes de alta calidad, diseñadas para satisfacer las necesidades específicas de cada negocio</div>
+        <div class="banner-message">connect-e Solutions2 es una empresa líder en la instalación de redes de computadoras, especializada en proporcionar soluciones completas y personalizadas para sus clientes. Nos dedicamos a la implementación de redes de alta calidad, diseñadas para satisfacer las necesidades específicas de cada negocio</div>
         <div class="banner-image"><img src="{{ asset('img/wallpaper_1.webp') }}" alt=""></div>
     </section>
     <section class="section mt-5">
