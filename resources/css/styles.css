@@ -1,0 +1,22 @@
+:root {
+}
+
+html {
+    box-sizing: border-box;
+}
+
+/* box sizing */
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+.nav {
+    background-color: blue;
+}
+
+body {
+    background-color: red;
+}
+
