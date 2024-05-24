@@ -20,7 +20,7 @@
                 <td><a href="{{route('user.edit', ['user' => $user->id]) }}">{{$user->name}}</a></td>
                 <td>{{ $user->email }}</td>
                 <td>{{ $user->password }}</td>
-                <td>{{ $user->department_id }}</td>
+                <td>N/A</td>
                 <td class="is-flex is-justify-content-center">
                     <a href="{{route('user.edit', ['user' => $user->id]) }}" class="button is-link m-1">Editar</a>
                     <form method="POST" action="{{ route('user.destroy', $user->id) }}">
